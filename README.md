@@ -1,4 +1,4 @@
-# 🍎 Fruit Detection and Classification Using Deep Learning
+#  Fruit Detection and Classification Using Deep Learning
 
 A comprehensive computer vision system for detecting and classifying fruits in static images. This project leverages classical image processing techniques and deep learning models to identify multiple fruit objects, draw bounding boxes, and classify them using a custom-trained CNN. A graphical user interface (GUI) is included for ease of use.
 
